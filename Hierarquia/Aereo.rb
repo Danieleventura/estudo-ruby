@@ -37,5 +37,6 @@ class Caca < Aviao
     def get_metralhadora()
         return @metralhadora
     end
-    
+
 end
+
