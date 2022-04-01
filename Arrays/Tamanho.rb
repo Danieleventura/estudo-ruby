@@ -8,4 +8,4 @@ a1 = [1, 'dois', 'tres', 3.0, array_tamanho(a0)]
 p(a0)
 p(a1)
 
-puts("Indice '0' de a1 e #{a1[1]}")
+puts("Indice '1' de a1 e #{a1[1]}")
