@@ -1,4 +1,4 @@
 # Estudo do Ruby
-Arquivos de estudo da linguagem Ruby.
+Este repositório armazena os arquivos do curso Ruby 2021 Dominando Programação Orientada a Objetos.
 
-Do curso: Dominando Programação Orientada a Objetos com Ruby 2021
+
